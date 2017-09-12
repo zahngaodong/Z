@@ -28,6 +28,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initData() {
+        initAdapter();
+    }
+
+    private void initAdapter() {
     }
 
     /**
